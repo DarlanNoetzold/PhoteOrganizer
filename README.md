@@ -1,11 +1,11 @@
-# PhoteOrganizer
-## Ferramentas usadas
-* Python como Linguagem principal
-* Biblioteca PIL do Python para a manipulação das imagens
-* Biblioteca shutil do Pyhton para o gerenciamento de pastas
+# PhotoOrganizer
+## Tools used
+* Python as main language
+* Python PIL library for manipulating images
+* Python shutil library for folder management
 
-## O Software
-É basicamente um Software de manipualção de pastas e imagens, que busca ornanizar as imagens do seu computador em pastas de acordo com sua data.
+## The Software
+It is basically folder and image manipulation software, which seeks to organize the images on your computer into folders according to their date.
 
 <p align="center"><img src="https://github.com/DarlanNoetzold/PhoteOrganizer/blob/master/PhotoOrganizer.jpg" /><p />
 
